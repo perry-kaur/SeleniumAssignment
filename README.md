@@ -7,6 +7,5 @@
 -- Running test cases was easier from IDE but setting up to run from command line using maven took some time.
 
 Maven commands:
-
-mvn clean test - Runs all tests
-mvn clean test -Dbrowser=chrome ( or mvn clean test -Dbrowser=firefox)
+- mvn clean test (Runs all tests)
+- mvn clean test -Dbrowser=chrome ( or mvn clean test -Dbrowser=firefox)
