@@ -1,3 +1,4 @@
+- Used Intelij IDE as editor. Cases can also run from command line maven.
 - Added BasePage file and its subclasses to handle actions in relevant child classes
 - Search.feature contains test scenarios with parameters url, product and topic.
 - Added TestRunner class which is annotaed with @RunWith which tells JUnit which is the test runner class. 
